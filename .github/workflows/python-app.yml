@@ -35,8 +35,8 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: run manual diff test
       run: |
-        ./python/test.py | tee dump.txt
-        diff dump.txt expected.txt
+        ./python/test.py | tee ./python/dump.txt
+        diff ./python/dump.txt ./python/expected.txt
 #     - name: Test with pytest
 #       working-directory: ./python
 #       run: |
