@@ -1,0 +1,20 @@
+
+Log level set to DEBUG
+This is a debug message with UI log level
+This is a debug message with DEBUG log level
+This is an info message with INFO log level
+This is an error message with WARNING log level
+This is an error message with ERROR log level
+
+Log level set to INFO
+This is a debug message with UI log level
+This is an info message with INFO log level
+This is an error message with WARNING log level
+This is an error message with ERROR log level
+
+Log level set to ERROR
+This is a debug message with UI log level
+This is an error message with ERROR log level
+
+Log level set to SILENT
+This is a debug message with UI log level
