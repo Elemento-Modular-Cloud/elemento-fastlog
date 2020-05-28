@@ -1,20 +1,20 @@
 
 Log level set to DEBUG
-This is a debug message with UI log level
-This is a debug message with DEBUG log level
-This is an info message with INFO log level
-This is an error message with WARNING log level
-This is an error message with ERROR log level
+[38;5;5mThis is a debug message with UI log level[0m
+[38;5;0mThis is a debug message with DEBUG log level[0m
+[38;5;6mThis is an info message with INFO log level[0m
+[38;5;214mThis is an error message with WARNING log level[0m
+[38;5;1m[1mThis is an error message with ERROR log level[0m
 
 Log level set to INFO
-This is a debug message with UI log level
-This is an info message with INFO log level
-This is an error message with WARNING log level
-This is an error message with ERROR log level
+[38;5;5mThis is a debug message with UI log level[0m
+[38;5;6mThis is an info message with INFO log level[0m
+[38;5;214mThis is an error message with WARNING log level[0m
+[38;5;1m[1mThis is an error message with ERROR log level[0m
 
 Log level set to ERROR
-This is a debug message with UI log level
-This is an error message with ERROR log level
+[38;5;5mThis is a debug message with UI log level[0m
+[38;5;1m[1mThis is an error message with ERROR log level[0m
 
 Log level set to SILENT
-This is a debug message with UI log level
+[38;5;5mThis is a debug message with UI log level[0m
