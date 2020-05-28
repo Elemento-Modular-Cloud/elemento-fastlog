@@ -42,6 +42,8 @@ The supported log levels are:
 - `DEBUG`
 - `UI`
 
+The global log level can be set modifying the `logLevel`variable value accordingly.
+
 Excluding the log level argument, the method signature is the same as for the standard python `print` function.
 
 ```
